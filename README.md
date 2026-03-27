@@ -31,7 +31,7 @@ Meu objetivo de carreira é atuar como **Especialista de Investimentos**, combin
 | 2025 | 🎓 Formado em Gestão de TI — UNIP | ✅ Concluído |
 | 2025 · 2º sem | 📊 DataCamp — Trilha de Dados | ✅ Concluído |
 | 2026 · 2º sem | 🏫 Pós-graduação em Data Analytics & IA — FECAP | 🔄 Em andamento |
-| 2027 · 2º sem | 📜 CPA-10 - ANBIMA | 🎯 Planejado |
+| 2027 · 2º sem | 📜 CPA - ANBIMA | 🎯 Planejado |
 | 2028 | 📜 C PRO I — ANBIMA | 🎯 Planejado |
 | 2029+ | 🔭 Próximos passos em planejamento... | ⏳ A definir |
 
